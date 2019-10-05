@@ -11,9 +11,9 @@ GPU
 # Run the S-DMM
 Please set your parameters in train.py or test.py before runing them. 
 
-training process, run: python train.py 
+In training process, run: python train.py 
 
-test process, run: python test.py
+In test process, run: python test.py
 
 # About datasets and checkpoints
 The datasets is available in http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes  
