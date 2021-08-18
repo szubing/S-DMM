@@ -18,7 +18,7 @@ Test, run: python test.py
 # About datasets and checkpoints
 The datasets are available in http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes  
 
-The saving trainTestSplit and checkpoints of our experiments can be download at https://pan.baidu.com/s/1cXrVnLf662wtCW6xX3LWhg or at https://drive.google.com/drive/folders/1eWWIA0Y6G7zpGadWEkvmMKWv9lYvw5rL?usp=sharing
+The saving trainTestSplit and checkpoints of our experiments can be download at https://pan.baidu.com/s/1cXrVnLf662wtCW6xX3LWhg or at https://drive.google.com/drive/folders/1z2qDYLMdsVPk--Qhze-JKde9P4G4GOKw?usp=sharing
 
 # Note
 This is the code for the same-scene HSI classification; The code for cross-scene HSI classification is in https://github.com/szubing/ED-DMM-UDA
